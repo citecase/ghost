@@ -495,3 +495,49 @@
 
 **Question:** What is the meaning of the legal maxim "Fraus omnia corrumpit"?
 **Answer:** [[Sri Mukund Maheswar v. Axis Bank Ltd 2026 INSC 84]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Sri-Mukund-Maheswar-v.-Axis-Bank-Ltd-2026-INSC-84---Writ-Petition---Registry-Objection-.pdf&sa=D&source=editors&ust=1770407869883966&usg=AOvVaw3z89t6edMJnQXDGeKZMAlR)
+
+
+---
+## Daily Questions - February 07, 2026
+
+**Question:** Can a High Court decline to entertain a writ petition under Article 226, even where a substantial point of law is raised, if granting relief would not serve or advance public interest?
+**Answer:** [[Bihar Industrial Area Development Authority vs Scope Sales Pvt. Ltd. 2026 INSC 89 - Writ Jurisdiction - Intra Court Appeal]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bihar-Industrial-Area-Development-Authority-vs-Scope-Sales-Pvt.-Ltd.-2026-INSC-89---Writ-Jurisdiction---Intra-Court-Appeal-.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305751664&amp;usg=AOvVaw1K8QAjzVWcvdmpD5FlFNv7)
+
+**Question:** When is the exercise of intra-court appellate jurisdiction warranted against a Single Judge’s judgment or order?
+**Answer:** [[Bihar Industrial Area Development Authority vs Scope Sales Pvt. Ltd. 2026 INSC 89 - Writ Jurisdiction - Intra Court Appeal]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bihar-Industrial-Area-Development-Authority-vs-Scope-Sales-Pvt.-Ltd.-2026-INSC-89---Writ-Jurisdiction---Intra-Court-Appeal-.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305751664&amp;usg=AOvVaw1K8QAjzVWcvdmpD5FlFNv7)
+
+**Question:** When individual rights conflict with the collective public interest, which interest must yield?
+**Answer:** [[Bihar Industrial Area Development Authority vs Scope Sales Pvt. Ltd. 2026 INSC 89 - Writ Jurisdiction - Intra Court Appeal]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bihar-Industrial-Area-Development-Authority-vs-Scope-Sales-Pvt.-Ltd.-2026-INSC-89---Writ-Jurisdiction---Intra-Court-Appeal-.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305751664&amp;usg=AOvVaw1K8QAjzVWcvdmpD5FlFNv7)
+
+**Question:** How should a Magistrate interpret and proceed upon receiving a complaint under Section 175(4) of the Bharatiya Nagarik Suraksha Sanhita (BNSS) against a public servant for an offense arising in the course of official duties?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88 - S.175(4) BNSS - Complaint Against Public Servant Accused]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305754156&amp;usg=AOvVaw1irohc3Lq_iMA060adQaA6)
+
+**Question:** What requirements must an affidavit referred to in sub-section (3) of Section 175 of the BNSS fulfil?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88 - S.175(4) BNSS - Complaint Against Public Servant Accused]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305754156&amp;usg=AOvVaw1irohc3Lq_iMA060adQaA6)
+
+**Question:** What is the rule of interpretation regarding a Proviso, and how does it relate to the main provision of a statute?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88 - S.175(4) BNSS - Complaint Against Public Servant Accused]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305754156&amp;usg=AOvVaw1irohc3Lq_iMA060adQaA6)
+
+**Question:** Can a judicial order in a civil or criminal matter be challenged in a writ petition under Article 226 of the Constitution?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88 - S.175(4) BNSS - Complaint Against Public Servant Accused]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305754156&amp;usg=AOvVaw1irohc3Lq_iMA060adQaA6)
+
+**Question:** Does the appropriate Government have jurisdiction under Section 10(1) of the Industrial Disputes Act to refer an *apprehended* dispute to the Labour Court?
+**Answer:** [[Premium Transmission Private Limited v. State of Maharashtra 2026 INSC 87 - S. 10 Industrial Disputes Act]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Premium-Transmission-Private-Limited-v.-State-of-Maharashtra-2026-INSC-87---S.-10-Industrial-Disputes-Act-.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305760253&amp;usg=AOvVaw0wXJZw0GQxQKLk94jt9R1U)
+
+**Question:** Where an unfair labour practice is alleged, what is the applicable statute and the appropriate forum?
+**Answer:** [[Premium Transmission Private Limited v. State of Maharashtra 2026 INSC 87 - S. 10 Industrial Disputes Act]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Premium-Transmission-Private-Limited-v.-State-of-Maharashtra-2026-INSC-87---S.-10-Industrial-Disputes-Act-.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305760253&amp;usg=AOvVaw0wXJZw0GQxQKLk94jt9R1U)
+
+**Question:** Does the setting aside of land acquisition compensation awards for certain colluding landowners automatically invalidate the entire land acquisition award, including for non-tainted landowners?
+**Answer:** [[Niraj Jain v. Competent Authority- cum- Additional Collector, Jagdalpur 2026 INSC 86 - Land Acquisition]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Niraj-Jain-v.-Competent-Authority----cum----Additional-Collector--Jagdalpur--2026-INSC-86---Land-Acquisition.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305761842&amp;usg=AOvVaw1E1duFhcQxxErEMQAlUQCW)
+
+**Question:** Under the Indian Evidence Act, when can a confession form the legal basis of a conviction, and what standard of corroboration is required?
+**Answer:** [[Bernard Lyngdoh Phawa v. State of Meghalaya 2026 INSC 85 - Evidence Act - Confession - Last Seen Together]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bernard-Lyngdoh-Phawa-v.-State-of-Meghalaya-2026-INSC-85---Evidence-Act---Confession---Last-Seen-Together.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305763981&amp;usg=AOvVaw3D6QffVe-AD1UInNzjv1BA)
+
+**Question:** What is the proximity requirement for the "last seen together" theory projected by the prosecution under Section 106 of the Indian Evidence Act?
+**Answer:** [[Bernard Lyngdoh Phawa v. State of Meghalaya 2026 INSC 85 - Evidence Act - Confession - Last Seen Together]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bernard-Lyngdoh-Phawa-v.-State-of-Meghalaya-2026-INSC-85---Evidence-Act---Confession---Last-Seen-Together.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305763981&amp;usg=AOvVaw3D6QffVe-AD1UInNzjv1BA)
+
+**Question:** Can a High Court Registry object to a writ petition and seek clarification as to why a particular party has been joined as a respondent?
+**Answer:** [[Sri Mukund Maheswar v. Axis Bank Ltd 2026 INSC 84 - Writ Petition - Registry Objection]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Sri-Mukund-Maheswar-v.-Axis-Bank-Ltd-2026-INSC-84---Writ-Petition---Registry-Objection-.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305766156&amp;usg=AOvVaw3MrEkP34MekIzF7w7gDP54)
+
+**Question:** Can a writ petition be dismissed at the threshold if the suitor claims a larger or wider relief than what he is entitled to, or on the ground that multiple reliefs have been claimed in a single prayer?
+**Answer:** [[Sri Mukund Maheswar v. Axis Bank Ltd 2026 INSC 84 - Writ Petition - Registry Objection]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Sri-Mukund-Maheswar-v.-Axis-Bank-Ltd-2026-INSC-84---Writ-Petition---Registry-Objection-.pdf&amp;sa=D&amp;source=editors&amp;ust=1770493305766156&amp;usg=AOvVaw3MrEkP34MekIzF7w7gDP54)
