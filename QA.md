@@ -706,3 +706,61 @@
 
 **Question:** Can a writ petition be dismissed at the threshold on the ground that multiple reliefs have been claimed in a single prayer, even if the suitor is entitled to a lesser relief?
 **Answer:** [[Sri Mukund Maheswar v. Axis Bank Ltd 2026 INSC 84]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Sri-Mukund-Maheswar-v.-Axis-Bank-Ltd-2026-INSC-84---Writ-Petition---Registry-Objection-.pdf&amp;sa=D&amp;source=editors&amp;ust=1770754611016741&amp;usg=AOvVaw2lRuRIKvtwFZYd0iPb69NY)
+
+
+---
+## Daily Questions - February 11, 2026
+
+**Question:** Under Article 226 of the Constitution, can a High Court decline to grant discretionary writ relief, even if a strong legal case exists, if such relief would result in harm to society or affect public interest?
+**Answer:** [[Bihar Industrial Area Development Authority vs Scope Sales Pvt. Ltd. 2026 INSC 89]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bihar-Industrial-Area-Development-Authority-vs-Scope-Sales-Pvt.-Ltd.-2026-INSC-89---Writ-Jurisdiction---Intra-Court-Appeal-.pdf&sa=D&source=editors&ust=1770840582368582&usg=AOvVaw1rC3L_THvyu7K6OFeWKRAU)
+
+**Question:** In an Intra-Court Appeal (Writ Appeal), is interference warranted merely because the appellate Bench considers its view to be better, or must the judgment under challenge be demonstrably erroneous or suffer from perversity?
+**Answer:** [[Bihar Industrial Area Development Authority vs Scope Sales Pvt. Ltd. 2026 INSC 89]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bihar-Industrial-Area-Development-Authority-vs-Scope-Sales-Pvt.-Ltd.-2026-INSC-89---Writ-Jurisdiction---Intra-Court-Appeal-.pdf&sa=D&source=editors&ust=1770840582368582&usg=AOvVaw1rC3L_THvyu7K6OFeWKRAU)
+
+**Question:** Where individual rights come into conflict with the collective public interest, which interest must necessarily yield to the other?
+**Answer:** [[Bihar Industrial Area Development Authority vs Scope Sales Pvt. Ltd. 2026 INSC 89]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bihar-Industrial-Area-Development-Authority-vs-Scope-Sales-Pvt.-Ltd.-2026-INSC-89---Writ-Jurisdiction---Intra-Court-Appeal-.pdf&sa=D&source=editors&ust=1770840582368582&usg=AOvVaw1rC3L_THvyu7K6OFeWKRAU)
+
+**Question:** How should Section 175(4) of the Bharatiya Nagarik Suraksha Sanhita 2023 (BNSS) be purposively read when a Magistrate receives a complaint against a public servant?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&sa=D&source=editors&ust=1770840582370877&usg=AOvVaw2MafhSfJ--W6_Np7MwuiHv)
+
+**Question:** What procedures must a Judicial Magistrate follow under Section 175(4) of the BNSS upon receiving a complaint against a public servant, particularly regarding the nexus between the alleged offense and official duties?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&sa=D&source=editors&ust=1770840582370877&usg=AOvVaw2MafhSfJ--W6_Np7MwuiHv)
+
+**Question:** What conditions must an affidavit referred to in sub-section (3) of Section 175 of the BNSS fulfill?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&sa=D&source=editors&ust=1770840582370877&usg=AOvVaw2MafhSfJ--W6_Np7MwuiHv)
+
+**Question:** At what stage of criminal proceedings does Section 218 of the BNSS, concerning previous sanction of the Government, operate?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&sa=D&source=editors&ust=1770840582370877&usg=AOvVaw2MafhSfJ--W6_Np7MwuiHv)
+
+**Question:** What is the principle for interpreting a Proviso in a statute, and what test can be applied to determine if a provision functions as a true proviso?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&sa=D&source=editors&ust=1770840582370877&usg=AOvVaw2MafhSfJ--W6_Np7MwuiHv)
+
+**Question:** Can a High Court, exercising jurisdiction under Article 226, grant relief that was not specifically prayed for by the petitioner, ignoring the norms governing grant of relief?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&sa=D&source=editors&ust=1770840582370877&usg=AOvVaw2MafhSfJ--W6_Np7MwuiHv)
+
+**Question:** Can a judicial order passed in a criminal matter be challenged in a writ petition under Article 226 of the Constitution?
+**Answer:** [[XXX v. State of Kerala 2026 INSC 88]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/XXX-v.-State-of-Kerala-2026-INSC-88---S.175-BNSS---Complaint-Against-Public-Servant-Accused.pdf&sa=D&source=editors&ust=1770840582370877&usg=AOvVaw2MafhSfJ--W6_Np7MwuiHv)
+
+**Question:** Under Section 10(1) of the Industrial Disputes Act, 1947, is the appropriate Government within its jurisdiction to refer an 'apprehended industrial dispute' to the Labour Court?
+**Answer:** [[Premium Transmission Private Limited v. State of Maharashtra 2026 INSC 87]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Premium-Transmission-Private-Limited-v.-State-of-Maharashtra-2026-INSC-87---S.-10-Industrial-Disputes-Act-.pdf&sa=D&source=editors&ust=1770840582376859&usg=AOvVaw15WJICQ4tMQ72T1xSQoWk-)
+
+**Question:** If an unfair labour practice is alleged, and the case involves sham and nominal contracts, what is the applicable statute and the necessary prerequisite for adjudicatory relief regarding the status of the workman?
+**Answer:** [[Premium Transmission Private Limited v. State of Maharashtra 2026 INSC 87]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Premium-Transmission-Private-Limited-v.-State-of-Maharashtra-2026-INSC-87---S.-10-Industrial-Disputes-Act-.pdf&sa=D&source=editors&ust=1770840582376859&usg=AOvVaw15WJICQ4tMQ72T1xSQoWk-)
+
+**Question:** If compensation awards for a few landowners are set aside due to collusion and excessive payment in a land acquisition project, does this automatically invalidate the entire land acquisition award, including for a non-tainted landowner who was not a party to those proceedings?
+**Answer:** [[Niraj Jain v. Competent Authority- cum- Additional Collector, Jagdalpur 2026 INSC 86]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Niraj-Jain-v.-Competent-Authority----cum----Additional-Collector--Jagdalpur--2026-INSC-86---Land-Acquisition.pdf&sa=D&source=editors&ust=1770840582377947&usg=AOvVaw1yOG_V0zsfX4hw6ZB_Cu0a)
+
+**Question:** Under Section 24 of the Indian Evidence Act, when can a confession form the legal basis of a conviction, and what standard must the statement meet to be considered a true confession?
+**Answer:** [[Bernard Lyngdoh Phawa v. State of Meghalaya 2026 INSC 85]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bernard-Lyngdoh-Phawa-v.-State-of-Meghalaya-2026-INSC-85---Evidence-Act---Confession---Last-Seen-Together.pdf&sa=D&source=editors&ust=1770840582379456&usg=AOvVaw0PhsZZj__N3DXPFjn8cq95)
+
+**Question:** Can exculpatory statements made by one accused, intended to absolve themselves from liability while accusing a co-accused, be relied upon against that co-accused?
+**Answer:** [[Bernard Lyngdoh Phawa v. State of Meghalaya 2026 INSC 85]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bernard-Lyngdoh-Phawa-v.-State-of-Meghalaya-2026-INSC-85---Evidence-Act---Confession---Last-Seen-Together.pdf&sa=D&source=editors&ust=1770840582379456&usg=AOvVaw0PhsZZj__N3DXPFjn8cq95)
+
+**Question:** Under Section 106 of the Indian Evidence Act, what condition must the 'last seen together' theory satisfy regarding the timing relative to the victim's death?
+**Answer:** [[Bernard Lyngdoh Phawa v. State of Meghalaya 2026 INSC 85]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Bernard-Lyngdoh-Phawa-v.-State-of-Meghalaya-2026-INSC-85---Evidence-Act---Confession---Last-Seen-Together.pdf&sa=D&source=editors&ust=1770840582379456&usg=AOvVaw0PhsZZj__N3DXPFjn8cq95)
+
+**Question:** Is it permissible for the High Court Registry to object to a writ petition or seek clarification on why a particular party has been joined as a respondent, infringing upon the petitioner's right to decide the array of parties?
+**Answer:** [[Sri Mukund Maheswar v. Axis Bank Ltd 2026 INSC 84]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Sri-Mukund-Maheswar-v.-Axis-Bank-Ltd-2026-INSC-84---Writ-Petition---Registry-Objection-.pdf&sa=D&source=editors&ust=1770840582380621&usg=AOvVaw1jkbRhGtwPnwn5C_06aAfI)
+
+**Question:** When a suitor claims a larger or wider relief than they are entitled to in a writ petition, can the court dismiss the petition on that ground, or is the court permitted to grant a lesser relief or mold the relief without insisting on amendment of the prayer clause?
+**Answer:** [[Sri Mukund Maheswar v. Axis Bank Ltd 2026 INSC 84]](https://www.google.com/url?q=https://www.caseciter.com/content/files/2026/01/Sri-Mukund-Maheswar-v.-Axis-Bank-Ltd-2026-INSC-84---Writ-Petition---Registry-Objection-.pdf&sa=D&source=editors&ust=1770840582380621&usg=AOvVaw1jkbRhGtwPnwn5C_06aAfI)
